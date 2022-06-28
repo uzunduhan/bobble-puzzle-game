@@ -1,0 +1,29 @@
+puzzle.png
+AktifAnimasyon 	Sabit
+AktifYon	Sag
+--------------------------------
+AnimasyonIsmi	Dondurme
+AnimsyonYon	Sag
+Koordinat	1 3218
+Boyut		31 15
+CerceveSayisi	8
+--------------------------------
+AnimasyonIsmi	Dondurme
+AnimsyonYon	Sol
+Koordinat	232 3218
+Boyut		31 15
+CerceveSayisi	8
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonYon	Sag
+Koordinat	1 3218
+Boyut		31 15
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonYon	Sol
+Koordinat	1 3218
+Boyut		31 15
+CerceveSayisi	1
+--------------------------------
+

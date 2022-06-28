@@ -1,0 +1,100 @@
+puzzle.png
+AktifAnimasyon 	Sabit
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonRenk	Kirmizi
+Koordinat	555 1920
+Boyut		16 16
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Yapisma
+AnimsyonRenk	Kirmizi
+Koordinat	555 1920
+Boyut		16 16
+CerceveSayisi	10
+--------------------------------
+AnimasyonIsmi	Patlama
+AnimsyonRenk	Kirmizi
+Koordinat	725 1912
+Boyut		32 32
+CerceveSayisi	7
+--------------------------------
+AnimasyonIsmi	Silme
+AnimsyonRenk	Kirmizi
+Koordinat	1010 2036
+Boyut		1 1
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonRenk	Sari
+Koordinat	555 1854
+Boyut		16 16
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Yapisma
+AnimsyonRenk	Sari
+Koordinat	555 1854
+Boyut		16 16
+CerceveSayisi	10
+--------------------------------
+AnimasyonIsmi	Patlama
+AnimsyonRenk	Sari
+Koordinat	725 1846
+Boyut		32 32
+CerceveSayisi	7
+--------------------------------
+AnimasyonIsmi	Silme
+AnimsyonRenk	Sari
+Koordinat	1010 2036
+Boyut		1 1
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonRenk	Mavi
+Koordinat	1 1854
+Boyut		16 16
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Yapisma
+AnimsyonRenk	Mavi
+Koordinat	1 1854
+Boyut		16 16
+CerceveSayisi	10
+--------------------------------
+AnimasyonIsmi	Patlama
+AnimsyonRenk	Mavi
+Koordinat	171 1846
+Boyut		32 32
+CerceveSayisi	7
+--------------------------------
+AnimasyonIsmi	Silme
+AnimsyonRenk	Mavi
+Koordinat	1010 2036
+Boyut		1 1
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonRenk	Yesil
+Koordinat	555 1887
+Boyut		16 16
+CerceveSayisi	1
+--------------------------------
+AnimasyonIsmi	Yapisma
+AnimsyonRenk	Yesil
+Koordinat	555 1887
+Boyut		16 16
+CerceveSayisi	10
+--------------------------------
+AnimasyonIsmi	Patlama
+AnimsyonRenk	Yesil
+Koordinat	725 1879
+Boyut		32 32
+CerceveSayisi	7
+--------------------------------
+AnimasyonIsmi	Silme
+AnimsyonRenk	Yesil
+Koordinat	1010 2036
+Boyut		1 1
+CerceveSayisi	1
+--------------------------------
+

@@ -1,0 +1,10 @@
+puzzle.png
+AktifAnimasyon 	Sabit
+AktifYon	Sag
+--------------------------------
+AnimasyonIsmi	Sabit
+AnimsyonYon	Sag
+Koordinat	1 1805
+Boyut		63 39
+CerceveSayisi	1
+--------------------------------
